@@ -1,0 +1,77 @@
+/*Travis Lee 9 Dec 2021*/
+.tryout {
+    text-align:center;
+    font-size: 0.95em;
+    
+}
+.bckground{
+    background-color:rgb(197, 198, 212);
+}
+.boxy{
+    text-align:center;
+    border:5px;
+    border-style:solid; 
+    border-color:rgb(68, 68, 85); 
+    padding: .1em;
+    border-radius: 1em;
+    background-color: rgb(159, 171, 241);
+}
+.blackboxy{
+    border:5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style:solid; 
+    border-color:black; 
+    padding: .3em;
+    border-radius: 1em;
+    background-color: rgb(184, 175, 175);
+}
+.givespace{
+    padding: .5em
+}
+.tim{
+    text-align: center;
+    font-family:Wingding,Helvetica, sans-serif;
+    color:white;
+    font-size: 30pt;
+    font-size: 0.95em;
+    background-color: black;
+    border-radius: 1em;
+}
+.tim:hover{
+   font-size:200%;
+   font-family:Wingding,sans-serif;
+   color:yellow;
+   font-size: 0.95em;
+}
+.lift{
+    width: 90%;
+    height: 1.2rem;
+    padding: 0;
+    background-color: transparent;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    
+}
+#mymenu {
+    font-family:Helvetica;
+	height: 75x;
+    text-align:center;
+}
+
+.menubar {
+	display: table;   
+	margin: 0 auto;
+}
+
+ul#hlist {
+	min-width: 500px;
+	list-style: none;
+	padding-top: 15px;
+	}
+	ul#hlist li {
+        list-style-type: none;
+        border:rgb(25, 29, 26);
+		display: inline;
+    }
